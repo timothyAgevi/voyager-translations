@@ -10,7 +10,7 @@
 ## Locales naming
 - You can take help and name folder as country code [link](https://www.w3.org/International/O-charset-lang.html)
 - In case country is present in above link, use respective country code from any other source.
-
+-An update link to find language abbreviation can be found [link] (https://www.loc.gov/standards/iso639-2/php/English_list.php)
 
 ## Current languages (Languages which are translated)
 - English (en)
